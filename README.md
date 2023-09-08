@@ -19,6 +19,7 @@ Display the modified image output.
 ### Step5:
 End the program.
 ## Program:
+```
 Developed By:bhuvaneshwari.S
 Register Number:212221240010
 import numpy as np
@@ -86,7 +87,8 @@ cropped_image = image[100:300,100:300]
 plt.axis('off')
 plt.imshow(cropped_image)
 plt.show()
-## Output:
+```
+### Output:
 
 ![image](https://github.com/Bhuvaneshwari-2003/IMAGETRANSFORMATION/assets/94828604/15935212-ea4d-4226-bdfd-2f8d6ad8a4af)
 
